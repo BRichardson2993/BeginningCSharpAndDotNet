@@ -7,8 +7,6 @@ namespace Ch03Ex3._5
         static void Main(string[] args)
         {
             double num1, num2, num3, num4;
-
-
             Console.WriteLine("Please enter a number.");
             num1 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Please enter another number.");
