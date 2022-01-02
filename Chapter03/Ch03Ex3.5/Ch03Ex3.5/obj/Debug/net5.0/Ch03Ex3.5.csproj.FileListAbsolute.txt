@@ -1,0 +1,16 @@
+C:\_git\BeginningCSharpAndDotNet\Chapter03\Ch03Ex3.5\Ch03Ex3.5\obj\Debug\net5.0\Ch03Ex3.5.csproj.AssemblyReference.cache
+C:\_git\BeginningCSharpAndDotNet\Chapter03\Ch03Ex3.5\Ch03Ex3.5\obj\Debug\net5.0\Ch03Ex3.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\_git\BeginningCSharpAndDotNet\Chapter03\Ch03Ex3.5\Ch03Ex3.5\obj\Debug\net5.0\Ch03Ex3.5.AssemblyInfoInputs.cache
+C:\_git\BeginningCSharpAndDotNet\Chapter03\Ch03Ex3.5\Ch03Ex3.5\obj\Debug\net5.0\Ch03Ex3.5.AssemblyInfo.cs
+C:\_git\BeginningCSharpAndDotNet\Chapter03\Ch03Ex3.5\Ch03Ex3.5\obj\Debug\net5.0\Ch03Ex3.5.csproj.CoreCompileInputs.cache
+C:\_git\BeginningCSharpAndDotNet\Chapter03\Ch03Ex3.5\Ch03Ex3.5\bin\Debug\net5.0\Ch03Ex3.5.exe
+C:\_git\BeginningCSharpAndDotNet\Chapter03\Ch03Ex3.5\Ch03Ex3.5\bin\Debug\net5.0\Ch03Ex3.5.deps.json
+C:\_git\BeginningCSharpAndDotNet\Chapter03\Ch03Ex3.5\Ch03Ex3.5\bin\Debug\net5.0\Ch03Ex3.5.runtimeconfig.json
+C:\_git\BeginningCSharpAndDotNet\Chapter03\Ch03Ex3.5\Ch03Ex3.5\bin\Debug\net5.0\Ch03Ex3.5.runtimeconfig.dev.json
+C:\_git\BeginningCSharpAndDotNet\Chapter03\Ch03Ex3.5\Ch03Ex3.5\bin\Debug\net5.0\Ch03Ex3.5.dll
+C:\_git\BeginningCSharpAndDotNet\Chapter03\Ch03Ex3.5\Ch03Ex3.5\bin\Debug\net5.0\ref\Ch03Ex3.5.dll
+C:\_git\BeginningCSharpAndDotNet\Chapter03\Ch03Ex3.5\Ch03Ex3.5\bin\Debug\net5.0\Ch03Ex3.5.pdb
+C:\_git\BeginningCSharpAndDotNet\Chapter03\Ch03Ex3.5\Ch03Ex3.5\obj\Debug\net5.0\Ch03Ex3.5.dll
+C:\_git\BeginningCSharpAndDotNet\Chapter03\Ch03Ex3.5\Ch03Ex3.5\obj\Debug\net5.0\ref\Ch03Ex3.5.dll
+C:\_git\BeginningCSharpAndDotNet\Chapter03\Ch03Ex3.5\Ch03Ex3.5\obj\Debug\net5.0\Ch03Ex3.5.pdb
+C:\_git\BeginningCSharpAndDotNet\Chapter03\Ch03Ex3.5\Ch03Ex3.5\obj\Debug\net5.0\Ch03Ex3.5.genruntimeconfig.cache
