@@ -1,0 +1,16 @@
+C:\_git\BeginningCSharpAndDotNet\Exercise4.2\Exercise4.2\obj\Debug\net5.0\Exercise4.2.csproj.AssemblyReference.cache
+C:\_git\BeginningCSharpAndDotNet\Exercise4.2\Exercise4.2\obj\Debug\net5.0\Exercise4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\_git\BeginningCSharpAndDotNet\Exercise4.2\Exercise4.2\obj\Debug\net5.0\Exercise4.2.AssemblyInfoInputs.cache
+C:\_git\BeginningCSharpAndDotNet\Exercise4.2\Exercise4.2\obj\Debug\net5.0\Exercise4.2.AssemblyInfo.cs
+C:\_git\BeginningCSharpAndDotNet\Exercise4.2\Exercise4.2\obj\Debug\net5.0\Exercise4.2.csproj.CoreCompileInputs.cache
+C:\_git\BeginningCSharpAndDotNet\Exercise4.2\Exercise4.2\bin\Debug\net5.0\Exercise4.2.exe
+C:\_git\BeginningCSharpAndDotNet\Exercise4.2\Exercise4.2\bin\Debug\net5.0\Exercise4.2.deps.json
+C:\_git\BeginningCSharpAndDotNet\Exercise4.2\Exercise4.2\bin\Debug\net5.0\Exercise4.2.runtimeconfig.json
+C:\_git\BeginningCSharpAndDotNet\Exercise4.2\Exercise4.2\bin\Debug\net5.0\Exercise4.2.runtimeconfig.dev.json
+C:\_git\BeginningCSharpAndDotNet\Exercise4.2\Exercise4.2\bin\Debug\net5.0\Exercise4.2.dll
+C:\_git\BeginningCSharpAndDotNet\Exercise4.2\Exercise4.2\bin\Debug\net5.0\ref\Exercise4.2.dll
+C:\_git\BeginningCSharpAndDotNet\Exercise4.2\Exercise4.2\bin\Debug\net5.0\Exercise4.2.pdb
+C:\_git\BeginningCSharpAndDotNet\Exercise4.2\Exercise4.2\obj\Debug\net5.0\Exercise4.2.dll
+C:\_git\BeginningCSharpAndDotNet\Exercise4.2\Exercise4.2\obj\Debug\net5.0\ref\Exercise4.2.dll
+C:\_git\BeginningCSharpAndDotNet\Exercise4.2\Exercise4.2\obj\Debug\net5.0\Exercise4.2.pdb
+C:\_git\BeginningCSharpAndDotNet\Exercise4.2\Exercise4.2\obj\Debug\net5.0\Exercise4.2.genruntimeconfig.cache
