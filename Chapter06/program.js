@@ -1,10 +1,11 @@
-var getDieRoll = function(dieSize) {
-	var result = Math.ceil(dieSize * Math.random());
-	return result;
-};
+var dice = require("./dice");
+var die = dice.die;
 
-var die = {
-
-};
+die.size = 10;
+console.log(die.roll());
+console.log(die.roll());
+console.log(die.roll());
+console.log("Total rolls: " + die.totalRolls);
 
 console.log(die);
+
