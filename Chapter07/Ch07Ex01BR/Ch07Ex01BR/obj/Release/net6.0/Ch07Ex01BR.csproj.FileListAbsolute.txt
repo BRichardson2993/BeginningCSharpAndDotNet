@@ -1,0 +1,15 @@
+C:\_git\BeginningCSharpAndDotNet\Chapter07\Ch07Ex01BR\Ch07Ex01BR\bin\Release\net6.0\Ch07Ex01BR.exe
+C:\_git\BeginningCSharpAndDotNet\Chapter07\Ch07Ex01BR\Ch07Ex01BR\bin\Release\net6.0\Ch07Ex01BR.deps.json
+C:\_git\BeginningCSharpAndDotNet\Chapter07\Ch07Ex01BR\Ch07Ex01BR\bin\Release\net6.0\Ch07Ex01BR.runtimeconfig.json
+C:\_git\BeginningCSharpAndDotNet\Chapter07\Ch07Ex01BR\Ch07Ex01BR\bin\Release\net6.0\Ch07Ex01BR.dll
+C:\_git\BeginningCSharpAndDotNet\Chapter07\Ch07Ex01BR\Ch07Ex01BR\bin\Release\net6.0\Ch07Ex01BR.pdb
+C:\_git\BeginningCSharpAndDotNet\Chapter07\Ch07Ex01BR\Ch07Ex01BR\obj\Release\net6.0\Ch07Ex01BR.csproj.AssemblyReference.cache
+C:\_git\BeginningCSharpAndDotNet\Chapter07\Ch07Ex01BR\Ch07Ex01BR\obj\Release\net6.0\Ch07Ex01BR.GeneratedMSBuildEditorConfig.editorconfig
+C:\_git\BeginningCSharpAndDotNet\Chapter07\Ch07Ex01BR\Ch07Ex01BR\obj\Release\net6.0\Ch07Ex01BR.AssemblyInfoInputs.cache
+C:\_git\BeginningCSharpAndDotNet\Chapter07\Ch07Ex01BR\Ch07Ex01BR\obj\Release\net6.0\Ch07Ex01BR.AssemblyInfo.cs
+C:\_git\BeginningCSharpAndDotNet\Chapter07\Ch07Ex01BR\Ch07Ex01BR\obj\Release\net6.0\Ch07Ex01BR.csproj.CoreCompileInputs.cache
+C:\_git\BeginningCSharpAndDotNet\Chapter07\Ch07Ex01BR\Ch07Ex01BR\obj\Release\net6.0\Ch07Ex01BR.dll
+C:\_git\BeginningCSharpAndDotNet\Chapter07\Ch07Ex01BR\Ch07Ex01BR\obj\Release\net6.0\refint\Ch07Ex01BR.dll
+C:\_git\BeginningCSharpAndDotNet\Chapter07\Ch07Ex01BR\Ch07Ex01BR\obj\Release\net6.0\Ch07Ex01BR.pdb
+C:\_git\BeginningCSharpAndDotNet\Chapter07\Ch07Ex01BR\Ch07Ex01BR\obj\Release\net6.0\Ch07Ex01BR.genruntimeconfig.cache
+C:\_git\BeginningCSharpAndDotNet\Chapter07\Ch07Ex01BR\Ch07Ex01BR\obj\Release\net6.0\ref\Ch07Ex01BR.dll
